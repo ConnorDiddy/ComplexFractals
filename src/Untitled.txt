@@ -1,0 +1,19 @@
+# choose julia set
+
+julia
+grid 800 800 200
+julia-parameters -0.70176 -0.3842
+fractal-plane-size -2.0 2.0 -2.0 2.0
+fractal-calculate
+
+# choose a color table
+
+set-color-table-size 201
+set-color-gradient 0 255 255 255 200 0 0 0
+
+# assign to output image
+grid-apply-color-table
+
+# save to file
+
+write julia-picture-1.ppm
