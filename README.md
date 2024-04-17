@@ -56,6 +56,6 @@ make
 
 ## Example Images
 
-![Alt text](examples/julia.png "Julia")
-![Alt text](examples/mandelbrot.png "Mandelbrot 1")
-![Alt text](examples/mandelbrot2.png "Mandelbrot 2")
+![alt text](https://github.com/connordiddy/complexfractals/blob/main/julia.png?raw=true)
+![alt text](https://github.com/connordiddy/complexfractals/blob/main/mandelbrot.png?raw=true)
+![alt text](https://github.com/connordiddy/complexfractals/blob/main/mandelbrot2.png?raw=true)
