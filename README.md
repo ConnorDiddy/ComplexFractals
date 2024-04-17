@@ -56,6 +56,6 @@ make
 
 ## Example Images
 
-![alt text](https://github.com/connordiddy/complexfractals/blob/main/julia.png?raw=true)
-![alt text](https://github.com/connordiddy/complexfractals/blob/main/mandelbrot.png?raw=true)
-![alt text](https://github.com/connordiddy/complexfractals/blob/main/mandelbrot2.png?raw=true)
+![alt text](https://github.com/connordiddy/complexfractals/blob/main/examples/julia.png?raw=true)
+![alt text](https://github.com/connordiddy/complexfractals/blob/main/examples/mandelbrot.png?raw=true)
+![alt text](https://github.com/connordiddy/complexfractals/blob/main/examples/mandelbrot2.png?raw=true)
